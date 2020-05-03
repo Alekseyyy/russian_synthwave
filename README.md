@@ -1,3 +1,5 @@
 # Russian synthwave
 
-Ad-hoc code examples for creating Synthwave inspired visuals with Matplotlib. See <a href="https://towardsdatascience.com/creating-synthwave-with-matplotlib-ea7c9be59760">here</a> for the relevant article.
+## Greetz
+
+This was originally created by a chap called [jamescalam](https://github.com/jamescalam/python_synthwave). See [his original repo](https://github.com/jamescalam/python_synthwave) for the og sauce ;-)
